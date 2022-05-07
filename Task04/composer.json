@@ -1,0 +1,14 @@
+{
+    "name": "danil/task04",
+    "autoload": {
+        "psr-4": {
+            "Danil\\Task04\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Danil Nagaev"
+        }
+    ],
+    "require": {}
+}
