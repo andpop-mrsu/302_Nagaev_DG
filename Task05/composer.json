@@ -1,0 +1,16 @@
+{
+    "name": "danil/task05",
+    "autoload": {
+        "psr-4": {
+            "Danil\\Task05\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Danil Nagaev"
+        }
+    ],
+    "require": {
+        "phpunit/phpunit": "^8.5"
+    }
+}
